@@ -1,5 +1,5 @@
 # Used_Car_Sales_USA
-Python-based data analysis project for the Career Foundry Data Analytics Program. The Results are presented via Tableau Interractive Dashboard
+Python-based data analysis project for the Career Foundry Data Analytics Program. The Results are presented via Tableau Interactive Dashboard.
 
 
 **Objective:** A Client from the USA  - a well-known car dealer, operating country-wide, specializing in Used Cars sales aims to increase the Revenue and would like to understand which factors significantly influence the Prices in Second Hand Market. 
